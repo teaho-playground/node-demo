@@ -1,0 +1,11 @@
+{
+  "name": "node-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    
+  }
+//  "main": "./lib/echo.js",       # 入口模块位置
+//  "bin" : {
+//    "node-echo": "./bin/node-echo"      # 命令行程序名和主模块位置
+//  }
+}
